@@ -207,14 +207,20 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 
 INFANTILES
 
+#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png",El Chavo TV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg",Pequeradio TV  | ES
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg",Paka Paka * | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni8hJUetBOfpcSuOJX1MVqz6Y7pr3t37tjD7wQIMw=s176-c-k-c0x00ffffff-no-rj-mo"group-title="INFANTIL",PLANETA JR TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/3000.m3u8
 
-
-
-
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/461_Planeta_Junior.jpg",Planeta Junior  | ES
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcZ6XxkJq59kwKm1RuT35WoVGkrYBlg77zt7Rm4idXrWu4BILiws4-ZGlrIhyC42tkw&usqp=CAU"group-title="INFANTIL",EL PATIO TV
 https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/1200.m3u8
 
@@ -222,12 +228,28 @@ https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/1200.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png",Anime ZoneTV
 https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp",Retro CartoonBR
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1586721001.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp"group-title="INFANTIL",AnimeTV BR
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1049494788.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp"group-title="INFANTIL",AnimeTV BR2
 https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1831622020.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp",Retro CartoonBR
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1586721001.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/74_Girovisual_TV.jpg",Girovisual TV  | CL
+https://unlimited2-cl-movistar.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg",Geovision  | CL
+https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png",Cloud Server Kids  | CL
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/47_CSTV.png",CSTV * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png",Dreiko TV  | PA
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png",Puerta Norte  | CL
+https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/328_Nortevision.png",Nortevision  | CL
+https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/83_Pucon_TV.png",Pucon TV  | CL
+http://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d4bdb68a85b31fdb5ab58d73fe88d22.webp"group-title="",TV TOKIO BR
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1628362568.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f99a0e941ba522c9a84d61be4d8bd2bd.webp"group-title="",TV EXTREME
@@ -241,36 +263,9 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2492092642.jpg"group-title="",TELETUBIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image66291515902.jpg"group-title="",KetNet Junior
-https://content-asae1-up-1.uplynk.com/channel/e11a05356cc44198977436418ad71832/e.m3u8?pbs=671add3a3db541da8a68d9b6618ef5a3
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/74_Girovisual_TV.jpg",Girovisual TV  | CL
-https://unlimited2-cl-movistar.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg",Geovision  | CL
-https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/47_CSTV.png",CSTV * | CL
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png",El Chavo TV * | CL
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg",Paka Paka * | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png",Anime Zone TV  | AR
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png",Cloud Server Kids  | CL
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png",Dreiko TV  | PA
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png",Locomotion  | AR
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/461_Planeta_Junior.jpg",Planeta Junior  | ES
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg",Pequeradio TV  | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png",Puerta Norte  | CL
-https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/328_Nortevision.png",Nortevision  | CL
-https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/83_Pucon_TV.png",Pucon TV  | CL
-http://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
+
 
 
 CINE
@@ -471,8 +466,6 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w796613671.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/559fc15ec0a7c0b4281bc152cc8123da.webp"group-title="",Rewind Tv
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w928863752.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f4198d87d89cb9c37e5131ce79f122c9.webp"group-title="",CarolinaTV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8?nimblesessionid=150399222
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b08a19ebf43dc88aa62a5acb380fa90f.webp"group-title="",Ibiza GlobaLTV
 https://nodo02-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/452689c6ae486a72a8271d2de86ab666.webp"group-title="",CMC TV
@@ -721,10 +714,29 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 
 
 ADULTOS
-#EXTINF:-1, ADULT TV
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",JasminTV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w549212722.m3u8
+#EXTINF:-1, FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?key=+ODmuqD5SGgTNiu/fCcLo5FpKXn0hTwVwXXdNvj6vB+bW0W4oD9lLDmilaSO3aPdTM6MNkBKFN2cEBA4q5mdPkPbu14xdehw
 #EXTINF:-1 tvg-logo="" group-title="",Kaloopy
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/2ada7817-d246-4499-a44b-5b4f3372d70b/0.m3u8
-#EXTINF:-1 tvg-logo="http://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png"group-title="Bolivia",CADENA A
+#EXTINF:-1 tvg-logo="" group-title="",JasminTV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w549212722.m3u8
+#EXTINF:-1, ADULT TV
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1, web cam1
+https://ue1-8.nginxborder-server.naiadsystems.com/p/8323/hls/live/6fe1ea2e-e0f7-44a5-9391-4067d4bf6317_2300_1280x720_128/index.m3u8
+#EXTINF:-1, web cam2
+https://ue1-13.nginxborder-server.naiadsystems.com/p/8313/hls/live/7ff78cdb-e0f7-4e0a-938f-6992ff3a66ba_700_768x432_128/index.m3u8
+#EXTINF:-1, web cam3
+https://ue1-6.nginxborder-server.naiadsystems.com/p/8323/hls/live/333ee56d-0916-41ac-a641-7881785e97f2_700_768x432_128/index.m3u8
+#EXTINF:-1, web cam4
+https://ue1-13.nginxborder-server.naiadsystems.com/p/8313/hls/live/cbd81be3-a91b-44e2-af7e-5439685e7c48_700_768x432_128/index.m3u8
+#EXTINF:-1, web cam5
+https://ue1-8.nginxborder-server.naiadsystems.com/p/8323/hls/live/abea2e06-5bf5-4952-b4d9-a7a645b4b00b_2300_1280x720_128/index.m3u8
+#EXTINF:-1, web cam6
+https://ue1-16.nginxborder-server.naiadsystems.com/p/8323/hls/live/fc67e63a-254d-486e-8d49-c14a26263c88_700_768x432_128/index.m3u8
+#EXTINF:-1, web cam7
+https://ue1-26.nginxborder-server.naiadsystems.com/p/8323/hls/live/ab63eaae-ae59-4968-b0c2-3c4d55478d65_2000_960x720_128/index.m3u8
+
+
+#EXTINF:-1, peli1
+https://ahhttp.porndig.com/key=L2HJITLqIJ55PVnwi1rcLA,end=1629790086/videos/2016/04/153282_13.mp4
