@@ -61,6 +61,9 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/chunklist_w782755658.m3u
 https://srv1.painelvideo.com/zoytv/zoytv/chunklist_w1516000245.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bolivia",A Estrenar
 http://live.cdn.comteco.com.bo/comgo/0408/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Perú",BH TV 703
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w310224729.m3u8
+
 
 NOTICIAS
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN Chile  | CL
@@ -685,34 +688,6 @@ http://v3.tustreaming.cl/graciatv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
-
-MUSICA NO
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Animation
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Classic
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Electro Rock
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing French touch
-http://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Ibiza
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Karaoke
-http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Summer Vibes
-http://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing TV
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",Djing Underground
-http://www.djing.com/tv/underground.m3u8
-
-#EXTINF:-1, FM MOVIES 2
-https://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w1380067934.m3u8
-
-#EXTINF:-1, FM TV HD
-https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
-
-
 ADULTOS
 #EXTINF:-1, FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?key=+ODmuqD5SGgTNiu/fCcLo5FpKXn0hTwVwXXdNvj6vB+bW0W4oD9lLDmilaSO3aPdTM6MNkBKFN2cEBA4q5mdPkPbu14xdehw
@@ -722,21 +697,5 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w549212722.m3u8
 #EXTINF:-1, ADULT TV
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1, web cam1
-https://ue1-8.nginxborder-server.naiadsystems.com/p/8323/hls/live/6fe1ea2e-e0f7-44a5-9391-4067d4bf6317_2300_1280x720_128/index.m3u8
-#EXTINF:-1, web cam2
-https://ue1-13.nginxborder-server.naiadsystems.com/p/8313/hls/live/7ff78cdb-e0f7-4e0a-938f-6992ff3a66ba_700_768x432_128/index.m3u8
-#EXTINF:-1, web cam3
-https://ue1-6.nginxborder-server.naiadsystems.com/p/8323/hls/live/333ee56d-0916-41ac-a641-7881785e97f2_700_768x432_128/index.m3u8
-#EXTINF:-1, web cam4
-https://ue1-13.nginxborder-server.naiadsystems.com/p/8313/hls/live/cbd81be3-a91b-44e2-af7e-5439685e7c48_700_768x432_128/index.m3u8
-#EXTINF:-1, web cam5
-https://ue1-8.nginxborder-server.naiadsystems.com/p/8323/hls/live/abea2e06-5bf5-4952-b4d9-a7a645b4b00b_2300_1280x720_128/index.m3u8
-#EXTINF:-1, web cam6
-https://ue1-16.nginxborder-server.naiadsystems.com/p/8323/hls/live/fc67e63a-254d-486e-8d49-c14a26263c88_700_768x432_128/index.m3u8
-#EXTINF:-1, web cam7
-https://ue1-26.nginxborder-server.naiadsystems.com/p/8323/hls/live/ab63eaae-ae59-4968-b0c2-3c4d55478d65_2000_960x720_128/index.m3u8
-
-
-#EXTINF:-1, peli1
-https://ahhttp.porndig.com/key=L2HJITLqIJ55PVnwi1rcLA,end=1629790086/videos/2016/04/153282_13.mp4
+#EXTINF:-1,VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
