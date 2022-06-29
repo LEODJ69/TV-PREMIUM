@@ -15,10 +15,8 @@ http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bolivia",PAT
 http://streaming.arcast.com.ar:1935/patbolivia/patsantacruz/chunklist_w1585139878.m3u8
-#EXTINF:-1, TVLatina
-http://america.tucableip.com:8181/live/tvlatinamontero/tracks-v1a1/index.m3u8
-
-
+#EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png",TVLatina
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://spng.subpng.com/20210505/rq/transparent-television-cable-television-logo-tv-show-logo-tv-609264ae9cb475.3121368016202067666419.jpg"group-title="BOLIVIA",TVSHOW
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
