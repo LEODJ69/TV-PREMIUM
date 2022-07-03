@@ -3,32 +3,8 @@
 #EXTINF:-1 tvg-logo=""group-title="",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="",HBO 1
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",HBO2
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2-avc1_1480000=10002.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",HBO XTREME
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme-avc1_1499968=10002.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",FX
-https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD-avc1_1972000=10002.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",SPACE
-https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD-avc1_1499968=10008.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",Warner TV
-https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD-avc1_1499968=10008.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",COMEDY CENTRAL
-https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral-avc1_1480000=10002.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",BEIN XTRA
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w684230842_b3128000_sling.m3u8
@@ -45,17 +21,8 @@ https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1639696226.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="",CINECANAL MX
-https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD-avc1_1972000=10002.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",VIX CINECLUB
-https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="",DRWHO ES
 https://bbceu-doctorwho-2-es.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",AMC
-https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD-avc1_1972000=10002.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="",IFC
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/profile_0/chunklist.m3u8
@@ -65,20 +32,6 @@ https://d2a5daycfw06m9.cloudfront.net/amg-gunpowder-alter/playlist1080pl.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="",BLOODY
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",DISCOVERY CHANNEL
-https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD-avc1_1972000=10002.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",NATIONAL GEOGRAPHIC
-https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD-avc1_1480000=10002.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="",NICK
-https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon-avc1_1532000=10004.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",BOMERANG
-https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang-avc1_1480000=10002.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -107,30 +60,8 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 #EXTINF:-1 tvg-logo=""group-title="",PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w293767140.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="",TOONGOGGLES LA
-https://stream.ads.ottera.tv/cl/2ac31339-35eb-4317-9890-a23d1a3258c5/1280x720_2300000_0_false.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="",LEGO
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=""group-title="",LFM TV MUSIC
-https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/chunklist_w1769291875.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="",VENUS MEDIA
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w794356782.m3u8?k=b9ac8ef2c640a634ba02ef3f6958a8cb93fc0906af1a7c65e565d639ced1e264&exp=1656820354
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="",PLAY BOY
-https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy-avc1_1499968=10001.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",A3VIKINI
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",VENUS
-https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus-avc1_1532000=10004.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="",SEXTREME
-https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme-avc1_1532000=10004.m3u8
