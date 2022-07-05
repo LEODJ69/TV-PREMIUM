@@ -1,27 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"group-title="BOLIVIA",Unitel HD
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4D1pLV58FrzaOjpldIk61lNNyJr9ffOV1F5-uVyxIbc)/dm/3/x7wzxiw/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsxNm8-auLB5nsL00ipynqrR4uP_sqCsUYYQcOw4p-Ih)/dm/3/x825whp/d/live-2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",RED UNO CBB
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO CBB
 http://streannlivereduno.cachefly.net/reduno1/reduno1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",RED UNO LPZ
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO LPZ
 http://streannlivereduno.cachefly.net/reduno2/reduno2/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",RED UNO SCZ
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO SCZ
 http://streannlivereduno.cachefly.net/reduno3/reduno3/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",Bolivision
+#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/themes/albavision-theme/img/logo.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="Bolivia",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",CadenaA
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="Bolivia",CadenaA
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w319019668.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",AbyaYala
+#EXTINF:-1 tvg-logo="https://i0.wp.com/abyayala.tv.bo/wp-content/uploads/2021/06/logo-blanco-abya-yala-television-2021-bolivia-1.png?fit=288%2C140&ssl=1"group-title="Bolivia",AbyaYala
 https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w1796407671.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a0csRYPo3arub-fVOBlFASHSf-XQlSPIJjNOeaS_iw7H0hEfwpAiWn2vGdDtrfNvgg"group-title="Bolivia",BoliviaTV 7.1
+#EXTINF:-1 tvg-logo="https://www.abi.bo/images/logos/BTV-wipala.png"group-title="Bolivia",BoliviaTV 7.1
 http://boliviatv1.srfms.com:5735//live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a0csRYPo3arub-fVOBlFASHSf-XQlSPIJjNOeaS_iw7H0hEfwpAiWn2vGdDtrfNvgg"group-title="Bolivia",BoliviaTV 7.2
+#EXTINF:-1 tvg-logo="https://www.abi.bo/images/logos/BTV-wipala.png"group-title="Bolivia",BoliviaTV 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1024154521.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png"group-title="Bolivia",Cristal TV
 http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
@@ -49,7 +47,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 https://stmv.panel.grupolimalive.com/imperial/imperial/chunklist_w1771332187.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1656719297689" group-title="Bolivia",TVU
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",CANAL VIRGEN DE COPACABANA
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/44.gif"group-title="Bolivia",CANAL VIRGEN DE COPACABANA
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
 #EXTINF:-1 tvg-logo="https://mega.tv/wp-content/uploads/sites/4/2015/03/megatv-opengraph.jpg"group-title="Bolivia",meGaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
@@ -61,7 +59,7 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Og80NJnX-oAXxXB9NxF0F6U_blWK-vlgM9-QQPWic0zlqMwp6l2uJ8aPAcVTIsmKA"group-title="Bolivia",TeleEstrella TV
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/chunklist_w782755658.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bolivia",MEGAVISION SCRZ
+#EXTINF:-1 tvg-logo="https://tvmegavision.com/wp-content/uploads/2021/03/Megavision-Bolivia-en-vivo-Online-1536x864.png"group-title="Bolivia",MEGAVISION SCRZ
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
 
@@ -122,6 +120,8 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w4189963
 
 
 INFANTILES
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i3b6c6088b6994b5f/version/1638209355/image.png",EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1582555768.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e7305cd9cf1cf17bd1716a5574b0ec6a.webp"group-title="cxtvlive",LocomotionTV
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png",Anime ZoneTV
@@ -313,6 +313,9 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",CIUDAD TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
+
 
 
 
@@ -422,9 +425,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/456_CHV.png",CHV  | CL
 http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
 
 CRISTIANOS
 #EXTINF:-1 tvg-logo=""group-title="",CBN ESPAÑOL
