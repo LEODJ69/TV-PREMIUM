@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo=""group-title="XXX",LeslyTV MX
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1tvg-logo=""group-title="XXX",ADULT TV
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",MiamiTV MX
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",MilfTV MX
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",HardCoreTV MX
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",BigtisTV MX
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",PovTV MX
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1, FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1,VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"group-title="BOLIVIA",Unitel HD
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4D1pLV58FrzaOjpldIk61lNNyJr9ffOV1F5-uVyxIbc)/dm/3/x7wzxiw/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO CBB
@@ -464,34 +483,3 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/456_CHV.png",CHV  | CL
 http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-CRISTIANOS
-#EXTINF:-1 tvg-logo=""group-title="",CBN ESPAÑOL
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",CBN WATCH
-https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/da1ac6a713ea63fa16f8cdf6f0571e4d.webp"group-title="",Amor i Vida TV
-https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w1773444086.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/60ea1051219c361231db28cdbde0b9ca.webp"group-title="",Koinonia Tv
-https://59825a54e4454.streamlock.net:8443/david632/david632/chunklist_w1118602096.m3u8
-#EXTINF:-1 tvg-logo="http://www.anajnu.cl/2015/articulos/307/halcones-con-rama-2.png" group-title="RELIGION",Sobrenatural Tv
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/esperanza%20tv.png" group-title="RELIGION", Esperanza TV
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png" group-title="RELIGION",Comunion TV
-http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-O1lvn7ixI3I/VezDtfKka6I/AAAAAAAADGM/KeEL0qq9Ng8/s1600/advenir.JPG" group-title="RELIGION",Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-O1lvn7ixI3I/VezDtfKka6I/AAAAAAAADGM/KeEL0qq9Ng8/s1600/advenir.JPG" group-title="RELIGION",Red Advenir2
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/1624478854344/1624478854344.png"group-title="TV LIBRE",ExtremaTV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/programacion/canal-luz.jpg"group-title="Bolivia",Canal LUZ
-http://181.117.97.141:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/95b03ec39e2ed29147f06d3836242ee5.webp"group-title="",CanalMas Cristiano
-https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329825292.m3u8
