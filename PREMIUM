@@ -7,7 +7,7 @@ http://streannlivereduno.cachefly.net/reduno1/reduno1/playlist.m3u8
 http://streannlivereduno.cachefly.net/reduno2/reduno2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO SCZ
 http://streannlivereduno.cachefly.net/reduno3/reduno3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qf8M_YmxTFE/Xx-DdDy_GeI/AAAAAAAAKkQ/L74PmY3R7ycfBjuAHi_wH8nbitG_lHDbQCLcBGAsYHQ/s1600/bolivision.png"group-title="Bolivia",Bolivision
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/8653814.png"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="Bolivia",ATB
 http://186.121.206.197/live/daniel/index.m3u8
@@ -96,14 +96,14 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1311346406_b1296000_
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/ANIMAL-PLANET-Logo-white_0.png"group-title="",Animal Planet HD
 http://190.92.25.115:8000/play/a0ah
-#EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png"",National Geographic
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4819995.png",National Geographic
 http://190.108.83.142:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="",HBO PLUS
-http://190.83.119.254:8000/play/a0v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinemax.png"group-title="",Start Life CINEMAX
 http://168.232.168.242:8089/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
 http://190.83.119.254:8000/play/a0xk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="",HBO PLUS
+http://190.83.119.254:8000/play/a0v1/index.m3u8
 #EXTINF:-1 tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2019/02/logo_v2-2.png"group-title="",Canli
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/elementor/thumbs/LOGO-pndpb9vr2ioypzkmtidn6exay62ljrs0tprryxf490.png"group-title="",Diosteve HD
@@ -120,6 +120,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab52300099867
 
 
 CINE
+#EXTINF:-1  tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png",MILENIUM TV AR
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/38/74/22/387422a4-d5a4-7365-892c-eb8bbc57f592/App_Icon-marketing.lsr/600x600bb.jpg"group-title="",Planeta TV HD
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg"group-title="",SONY NOVELAS
