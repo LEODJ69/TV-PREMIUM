@@ -7,8 +7,10 @@ http://streannlivereduno.cachefly.net/reduno1/reduno1/playlist.m3u8
 http://streannlivereduno.cachefly.net/reduno2/reduno2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg"group-title="Bolivia",RED UNO SCZ
 http://streannlivereduno.cachefly.net/reduno3/reduno3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/8653814.png"group-title="Bolivia",Bolivision
+#EXTINF:-1 tvg-logo="https://www.filepicker.io/api/file/28Fw24VtTW2JAF1arP18"group-title="Bolivia",Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1 tvg-logo="https://www.filepicker.io/api/file/28Fw24VtTW2JAF1arP18"group-title="Bolivia",Bolivision UPPTV
+https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="Bolivia",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
@@ -526,3 +528,23 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://181.117.97.141:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/95b03ec39e2ed29147f06d3836242ee5.webp"group-title="",CanalMas Cristiano
 https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329825292.m3u8
+
+AdultTV
+#EXTINF:-1 tvg-logo=""group-title="XXX",LeslyTV MX
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1tvg-logo=""group-title="XXX",ADULT TV
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",MiamiTV MX
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",MilfTV MX
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",HardCoreTV MX
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",BigtisTV MX
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",PovTV MX
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="XXX",VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
