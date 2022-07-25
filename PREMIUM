@@ -497,3 +497,5 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://181.117.97.141:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/95b03ec39e2ed29147f06d3836242ee5.webp"group-title="",CanalMas Cristiano
 https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329825292.m3u8
+#EXTINF:-1,Cap1 Piloto
+https://content-na.drive.amazonaws.com/cdproxy/share/oVf89KiVhyaxdQUGYXsj1VWjPQhdSjeAjwaLxpTqpJ6/nodes/ieDCUJoUQr2YdkctbnsQBA?nonce=hNBUoqeV4gUzhLDa6KTb5zR9aB0iajXwtlPtb1LrMj-GQceiCcHQklcmdtyg6drz
